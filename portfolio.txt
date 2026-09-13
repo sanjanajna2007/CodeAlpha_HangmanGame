@@ -1,0 +1,6 @@
+stock portfolio
+----------------
+GOOGLE- quantity: 45 - price 451 - investement: 20295
+TSLA- quantity: 451 - price 220 - investement: 99220
+
+total investsment : 119515
